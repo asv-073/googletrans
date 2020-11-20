@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="47">
+            <item index="0" class="java.lang.String" itemvalue="oauth2client" />
+            <item index="1" class="java.lang.String" itemvalue="pygeoip" />
+            <item index="2" class="java.lang.String" itemvalue="tabulate" />
+            <item index="3" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="python-quickbooks" />
+            <item index="8" class="java.lang.String" itemvalue="httplib2" />
+            <item index="9" class="java.lang.String" itemvalue="zenpy" />
+            <item index="10" class="java.lang.String" itemvalue="luigi" />
+            <item index="11" class="java.lang.String" itemvalue="python-whois" />
+            <item index="12" class="java.lang.String" itemvalue="requests" />
+            <item index="13" class="java.lang.String" itemvalue="py4j" />
+            <item index="14" class="java.lang.String" itemvalue="numpy" />
+            <item index="15" class="java.lang.String" itemvalue="youtrack" />
+            <item index="16" class="java.lang.String" itemvalue="Flask-Login" />
+            <item index="17" class="java.lang.String" itemvalue="flask_dance" />
+            <item index="18" class="java.lang.String" itemvalue="slackclient" />
+            <item index="19" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="20" class="java.lang.String" itemvalue="pycountry" />
+            <item index="21" class="java.lang.String" itemvalue="algoliasearch" />
+            <item index="22" class="java.lang.String" itemvalue="Flask" />
+            <item index="23" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="24" class="java.lang.String" itemvalue="cassandra-driver" />
+            <item index="25" class="java.lang.String" itemvalue="natural" />
+            <item index="26" class="java.lang.String" itemvalue="markdown2" />
+            <item index="27" class="java.lang.String" itemvalue="pysftp" />
+            <item index="28" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="29" class="java.lang.String" itemvalue="BeautifulSoup" />
+            <item index="30" class="java.lang.String" itemvalue="weasyprint" />
+            <item index="31" class="java.lang.String" itemvalue="twython" />
+            <item index="32" class="java.lang.String" itemvalue="clickhouse-driver" />
+            <item index="33" class="java.lang.String" itemvalue="zstandard" />
+            <item index="34" class="java.lang.String" itemvalue="prettytable" />
+            <item index="35" class="java.lang.String" itemvalue="jinja2" />
+            <item index="36" class="java.lang.String" itemvalue="pandas" />
+            <item index="37" class="java.lang.String" itemvalue="WTForms" />
+            <item index="38" class="java.lang.String" itemvalue="googleads" />
+            <item index="39" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="40" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="41" class="java.lang.String" itemvalue="redash-dynamic-query" />
+            <item index="42" class="java.lang.String" itemvalue="pytz" />
+            <item index="43" class="java.lang.String" itemvalue="googletrans" />
+            <item index="44" class="java.lang.String" itemvalue="jsondiff" />
+            <item index="45" class="java.lang.String" itemvalue="pylogsparser" />
+            <item index="46" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

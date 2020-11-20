@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Dev/.idea/Dev.iml" filepath="$PROJECT_DIR$/../Dev/.idea/Dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataminer/.idea/dataminer.iml" filepath="$PROJECT_DIR$/../dataminer/.idea/dataminer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py-googletrans-2.4.0.iml" filepath="$PROJECT_DIR$/.idea/py-googletrans-2.4.0.iml" />
+    </modules>
+  </component>
+</project>
